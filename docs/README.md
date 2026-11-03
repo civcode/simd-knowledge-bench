@@ -12,6 +12,8 @@ The knowledge source is the independent [SIMD Architecture Handbook](https://git
 
 | Document | Contents |
 | --- | --- |
+| [Architecture specification](architecture-specification.md) | Proposed components, execution flow, trust boundaries, data contracts and acceptance criteria |
+| [Open design decisions](open-design-decisions.md) | Prioritized choices, suggested defaults, trade-offs and decision gates |
 | [Research rationale](research-rationale.md) | Motivation, hypotheses, related research, boundaries of existing evidence |
 | [Experiment design](experiment-design.md) | Original 2×2 design, expanded 4×2 knowledge/feedback matrix, controls and ablations |
 | [Benchmark datasets](benchmark-datasets.md) | PolyBench/C, TSVC-2, SimdBench, AutoVec, VectorBench, PIE, candidate pilot tasks |
